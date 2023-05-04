@@ -7,7 +7,7 @@ const ProjectsData = [
   {
     title: 'Todo List App',
     gitHub: 'https://github.com/wayungi/ToDoListApp',
-    live: 'https://soft-malabi-1a9e7c.netlify.app/',
+    live: 'https://cutetodolist.netlify.app/',
     description: [
       "A web app designed to keep track of complete and incomplete tasks.",
       "Users can add or delete tasks. Tasks can also be marked as complete or incomplete.",
