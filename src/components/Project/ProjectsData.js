@@ -6,7 +6,7 @@ import cryptoapp from '../../images/cryptoapp2.png';
 const ProjectsData = [
   {
     title: 'Todo List App',
-    gitHub: 'https://github.com/wayungi/ToDoListApp',
+    gitHub: 'https://cutetodolist.netlify.app/',
     live: 'https://cutetodolist.netlify.app/',
     description: [
       "A web app designed to keep track of complete and incomplete tasks.",
@@ -32,7 +32,7 @@ const ProjectsData = [
   {
     title: 'Crypto Cash',
     gitHub: 'https://github.com/wayungi/crypto-cash',
-    live: 'https://diegoyon-crytoapp.netlify.app/',
+    live: 'https://cutetodolist.netlify.app/',
     description: [
       "Cryto-cash is an application that consumes the CoinCap API that contains updated information about cryptocurrencies.",
       "Currencies displayed can be filtered by ranking, price or percentage change. It also shows more information about each crytocurrency including a graph showing the price variations over time."
