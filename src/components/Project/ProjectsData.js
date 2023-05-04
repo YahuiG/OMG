@@ -9,9 +9,9 @@ const ProjectsData = [
     gitHub: 'https://cutetodolist.netlify.app/',
     live: 'https://cutetodolist.netlify.app/',
     description: [
-      "A web app designed to keep track of complete and incomplete tasks.",
-      "Users can add or delete tasks. Tasks can also be marked as complete or incomplete.",
-      "Built with JavaScript, HTML, CSS and Webpack."
+      "一款追踪记录日常待做事项的网页小程序。",
+      "用户可以添加或删除任务，任务也可以标记为完成或未完成。",
+      "使用JavaScript、HTML、CSS和Webpack构建。"
     ],
     skills: ['Javascript', 'HTML', 'CSS'],
     image: budget,
